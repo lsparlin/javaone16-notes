@@ -61,9 +61,14 @@ Can provide a supplier for type of map as the fourth parameter of `toMap`
 ```
 
 #### Convenience collecting methods
-`counting(), maxBy(), minBy(), summingXxx()`
-----
+ `counting(), maxBy(), minBy(), summingXxx()`
 
 #### Already threadsafe collections
  * `toConcurrentMap()`
  * `groupingByConcurrent()`
+
+## Writing your own Collectors
+Q: When do you want to do this?
+A: Accumulate a container that doesn't implement `Collection`
+
+
