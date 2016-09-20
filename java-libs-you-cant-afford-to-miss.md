@@ -2,7 +2,7 @@
 Andres Almiray @aalmiray
 Ix-Chel Ruiz @ixchelruiz
 
-github.com/aalmiray/javatrove
+http://github.com/aalmiray/javatrove
 
 ## Guice - for dependency Injection (JSR-330)
 
