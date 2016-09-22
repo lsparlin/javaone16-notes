@@ -1,0 +1,4 @@
+Arrays.asList(1, 2, 3)
+import java.util.stream.*;
+String greet = "hello";
+void bar() {}
